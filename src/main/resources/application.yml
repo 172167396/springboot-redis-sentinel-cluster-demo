@@ -1,0 +1,6 @@
+server:
+  port: 20001
+logging:
+  level:
+    root: info
+    com.dailu.springbootredissentinel: debug
