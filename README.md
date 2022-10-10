@@ -1,2 +1,2 @@
-# springboot-redis-sentinei-cluster-demo
-demo project of redis sentinei &amp; cluster 
+# springboot-redis-sentinel-cluster-demo
+demo project of redis sentinel &amp; cluster 
